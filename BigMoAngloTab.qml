@@ -16,7 +16,7 @@ MuseScore {
 	title: "BigMo Anglo Tab";
 	version: "0.1";
 	description: "Add fingering for Anglo Concertina to the score using a dialog box.";
-	thumbnailName: "ocarina-fingering.png";
+	thumbnailName: "anglo-fingering.png";
 	categoryCode: "composing-arranging-tools";
 	requiresScore: true;
 	pluginType: "dialog";
